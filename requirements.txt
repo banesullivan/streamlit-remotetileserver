@@ -1,0 +1,6 @@
+click<=8.0.4
+folium
+--find-links https://girder.github.io/large_image_wheels GDAL
+localtileserver[colormaps]>=0.5.7
+streamlit
+streamlit-folium
